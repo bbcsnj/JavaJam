@@ -1,0 +1,2 @@
+# JavaJam
+JavaJam practice website
